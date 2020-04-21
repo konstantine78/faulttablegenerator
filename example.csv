@@ -1,0 +1,7 @@
+FAULT,FAULT TEXT,REMEDY
+0xA001085B,This is a floating point exception fault.,Reset the PC.
+0xB00181D4,This is a watchdog timer fault.,Cycle WDT switch.
+0xC00086F8,This is a divide-by-zero fault.,Re-align THE_CONSTANT
+0xD0001077,The temperature has spiked.,A cooling fan has broken.
+0xE0016D00,The temperature has dropped.,Turn on the heat.
+0xF001085B,The voltage has dropped.,Buy some batteries.

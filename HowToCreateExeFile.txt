@@ -1,0 +1,3 @@
+To regenerate the *.exe.
+1) Open command prompt from directory where *.py exists.
+2) type 'pyinstaller --onefile faulttablegenerator.py
